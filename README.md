@@ -22,4 +22,14 @@ Em modo de desenvolvimento é recomendado executar utilizando o parâmetro reloa
 
 Abra o http://localhost:5000/#/ no navegador para verificar o status da API em execução.
 
+## Principais Insights:
+
+Apresentação do Swagger com todas as rotas apresentadas:
+
+![API](image/img01_api.jpg)
+
+Interação com o banco de dados:
+
+!{API](image/img03_bd.jpg)
+
 
