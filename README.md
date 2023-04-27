@@ -30,6 +30,6 @@ Apresentação do Swagger com todas as rotas apresentadas:
 
 Interação com o banco de dados:
 
-!{API](image/img03_bd.jpg)
+![API](image/img03_bd.jpg)
 
 
