@@ -1,8 +1,8 @@
 # Cadastro - API
 
-Este pequeno projeto faz parte do material diático da Disciplina Desenvolvimento Full Stack Básico.
+Este projeto referente ao Desenvolvimento MVP - Sprint 1 - Pós graduação em Engenharia de Software da PUC Rio. 
 
-O objetivo aqui é ilutsrar o conteúdo apresentado ao longo das três aulas da disciplina.
+O objetivo aqui é ilutsrar um cadastro de usuários, interagindo atráves das tecnologias Python, SQLite, Swagger(API). 
 
 ## Como executar
 
